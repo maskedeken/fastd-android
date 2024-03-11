@@ -1,2 +1,2 @@
 # fastd-android
-Fastd VPN for Android
+Fastd binary compiled for Android
